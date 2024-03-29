@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="DevOps_Integration_Tests_36530">
+			<child name="Exception_Check" key="{AC1B05BD-3030-42ED-9F68-7F6C1C29D76B}" path="Exception_Check.tcKDTest" />
+		</folder>
+	</children>
+</Root>
